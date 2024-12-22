@@ -77,3 +77,4 @@ After using SQL to Query, i exported the data extracted to excel using csv forma
 
 ## 5.0 Data Visualization.
 Having used the SQL to Query the Dataset and using Excel to crosscheck. I loaded the dataset to PowerBi. The results gotten can be seen in the daahboard below.
+![](KPMG.PNG)
